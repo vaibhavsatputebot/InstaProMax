@@ -1,12 +1,6 @@
-{
-  "show_message": false,
-    "show_content": false,
-    "content_url": "http://vaibhavsatputeprofile.blogspot.com/p/about-modder.html",
-  "title": " Snapchat Update",
-  "positive_btn": "Download",
-  
-    "down_link": "https://t.me/OpModsForYou",
-  "link": "",
-  "cancelable": true
-
-}
+// strings.js
+const strings = {
+  logoUrl: "https://i.ibb.co/4RjR0HwL/Sam-update.png",
+  title: "InstaMax Update Tonight ✨",
+  message: "All crashes & bugs will be fixed.<br>Sorry for the inconvenience.<br>Thank you for your patience!",
+};
