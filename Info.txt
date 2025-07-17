@@ -1,0 +1,19 @@
+[Base Update] `v386.0.0.46.84  
+
+✨ What's New & Improved:
+
+🆕 Added:
+• Download Reel Cover Image 🖼️  
+• Added iOS emojies 2025 and Twitter emoji 
+⚙️ Features:
+• Enabled Hidden Features 🔓  
+
+✅ Fixes:
+• Crash on Long Click in Messages 💬❌  
+• Fixed update your app when calling 
+• Story Auto-skip issue resolved 📖⏭️  
+• Download for Multiple Posts** now working smoothly 📥📸  
+• Fixed Random Crashes for a more stable experience 🛠️  
+
+🔧 Misc:
+• Many more improvements under the hood ⚙️
