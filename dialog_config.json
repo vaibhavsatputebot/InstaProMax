@@ -1,5 +1,8 @@
 {
-  "title": "New Version 2.0",
-  "message": "Fixed bugs\nImproved performance",
-  "download_url": "https://example.com/update.apk"
+  "enabled": true,
+  "title": "App Update",
+  "message": "New features available!\n• Bug fixes\n• Performance improvements",
+  "button_text": "Install Now",
+  "download_url": "https://yourdomain.com/update.apk",
+  "min_version": 2
 }
