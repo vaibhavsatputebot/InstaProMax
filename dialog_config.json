@@ -1,0 +1,7 @@
+{
+  "show_dialog": true,
+  "title": "Updates",
+  "message": "Visit official website\nCheck for update\n... [full Arabic text as before]",
+  "download_url": "https://your-domain.com/download",
+  "version": 2
+}
