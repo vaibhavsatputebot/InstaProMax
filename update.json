@@ -1,5 +1,6 @@
 {
-  "title": "NEW UPDATE!",
-  "message": "Version 2.0 is available\n\n- Bug fixes\n- New features",
-  "download_url": "https://your-link.com/update.apk"
+  "title": "NEW UPDATE AVAILABLE",
+  "message": "Version 2.0\n\n- Bug fixes\n- Performance improvements\n- New features",
+  "download_url": "https://yourdomain.com/update.apk",
+  "icon_url": "https://example.com/icon.png"
 }
