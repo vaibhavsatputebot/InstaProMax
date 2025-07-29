@@ -1,8 +1,6 @@
 {
-  "enabled": true,
-  "title": "App Update",
-  "message": "New features available!\n• Bug fixes\n• Performance improvements",
-  "button_text": "Install Now",
-  "download_url": "https://yourdomain.com/update.apk",
-  "min_version": 2
+  "title": "Updates",
+  "message": "New Update!\n\n357.1.0.52.100\n[تحديث قاعدة]\n...your update message...",
+  "download_url": "https://your-website.com/download",
+  "icon_url": "https://raw.githubusercontent.com/yourrepo/yourimage.png"
 }
