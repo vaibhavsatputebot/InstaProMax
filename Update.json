@@ -1,5 +1,5 @@
 {
-  "show_message": true,
+  "show_message": false,
   "title": "Download Instapro v12.77 ",
   "content_url": "https://sam1431.codeberg.page/wrk/new.html",
   "positive_btn": "Download Now",
